@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
+.main-img{
+    background-image: url("image/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    display: flex;
+    color: rgb(204, 255, 0);
+    justify-content:space-around;
+    align-items: center;
+
+} 
+.logo{
+    padding-right: 100px;
+    font-family: "Grechen Fuemen", serif;
+    font-size: 40px;
+    padding-left: 15px;
+}
+
+.link{
+    display: flex;
+    font-size: larger;
+    font-style: italic;
+    
+}
+li{
+    padding: 0px 20px 10px 10px;
+    list-style: none;
+    
+}
+.icons{
+    display: flex;
+    font-size: larger;
+    /* font-style: italic; */
+}
+.button{
+     color: black; 
+    border-radius: 5px;
+    background-color:rgb(204, 255, 0); 
+    border: none;
+}
+ .button:hover{
+    color:red;
+    background-color: brown;
+    
+} 
+.lk:hover{
+    color: red;
+    /* background-color: brown; */
+    /* padding-top: 5px; */
+}
+.ic:hover{
+    color:red;
+    /* background-color: brown; */
+    /* padding-top: 5px; */
+}
+.main{
+    /* align-items: center; */
+    /* justify-content: left; */
+    color: white; 
+    padding-top: 10px;
+    font-size: larger;
+    margin-left: 100px;
+    /* text-align: left;
+} */}
+.p{
+    width: 600px;
+}
+.btn{
+    margin-top: 20px;
+    background-color:rgb(204, 255, 0); 
+    border-radius: 5px;
+    border: none;
+}
+.btn:hover{
+    color:red;
+    
+}
+.h1{
+    padding-top: 50px;
+    font-family: "Grechen Fuemen", serif;
+}
+
+
+.order{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 10px;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+.ig{
+    height: 150px;
+    width: 150px;
+    border: 4px solid red;
+    border-radius: 500px;
+}
+
+.content{
+    margin-right: 100px;
+    margin-left: 10px;
+   
+}
+.content1{
+    margin-left: 10px;
+   
+}
+.c1{
+    display: flex;
+}
+.order1{
+    display: flex;
+    background-color: black;
+    margin: 20px;
+    width: 350px;
+    border-radius: 20px;
+    color: aqua;
+}
+    
+
+.order2{
+    display: flex;
+    background-color: black;
+    margin: 20px;
+    width: 350px;
+    border-radius: 20px;
+    color: aqua;
+}
+.bt{
+    border-radius: 20px;
+    
+}
+.bt:hover{
+    color: brown;
+}
+.main_list{
+    width: 350px;
+    height: 550px;
+    background-color: black;
+    color: aqua;
+    border-radius: 30px;
+}
+.main_img{
+    width: 350px;
+    height: 300px;
+    border-radius: 30px 30px 0px 30px;
+}
+.menu_details{
+    padding: 10px;
+}
+  .main_head{
+    margin-bottom: 10px;
+  } 
+  .main_para{
+    margin-top: 25px;
+  } 
+  .menu_icon{
+    display: flex;
+    justify-content: space-around;
+  }
+  .main_icon {
+    width: 40px;
+    height: 30px;
+    background-color: orange;
+    text-align: center;
+    align-items: center;
+    color: black;
+    padding-top: 20px;
+  }
+.main_menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.center{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    background-color:black;
+    margin-top: 200px;
+    color: aqua;
+    height: 700px;
+}
+.image9{
+    width: 700px;
+    height: 700px;
+
+
+    /* border-radius: 30px 30px 0px 30px; */
+    
+}
+.center_sub{
+    padding-left:100px;
+    align-items: center;
+    
+}
+.but{
+    border-radius: 20px;
+    background-color:rgb(204, 255, 0); 
+    border: none;
+    padding-top: 10px;
+}
+.but:hover{
+    color:red;
+    background-color: brown;
+    
+} 
+.pa{
+    width: 300px;
+    /* padding-left: ; */
+}
+.bar{
+    border-radius: 20px;
+    background-color:rgb(226, 211, 9); 
+    border: none;
+    color: white;
+    height: 40px;
+    width: 70px;
+}
+.bar:hover{
+    color:red;
+    background-color:yellowgreen;
+    
+}
+.a{
+    width: 175px;
+    height: 25px;
+    color:black;
+}
+.in{
+    color: black;
+}
+input{
+    color: black;
+}
+.form{
+    padding-left: 100px;
+    height: 600px;
+    padding-top: 100px;
+}
+.head5{
+    font-family: "Grechen Fuemen", serif;
+
+}
+.inp{
+    padding-left: 600px;
+    
+}
+.a1{
+    display: flex;
+    align-items: center;
+}
+.b1
+{
+    width: 400px;
+}
+.a2{
+    padding-left: 20px;
+}
+.a1{
+    align-items: center;
+    justify-content: center;
+
+}
+.a2{
+    background-color: black;
+    color: aqua;
+    
+    
+    margin: 20px;
+    width: 450px;
+    border-radius: 20px;
+   
+    
+}
+.footer{
+    background-color: black;
+    color: aqua;
+    margin-top: 40px;
+}
+.foot1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.ftp{
+    width: 200px;
+}
+.foot1b{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.foot2{
+    align-items: center;
+    justify-items: center;
+}
